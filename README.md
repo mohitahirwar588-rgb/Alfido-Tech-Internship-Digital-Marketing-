@@ -8,7 +8,7 @@ This repository contains the digital marketing projects I completed during my in
 - **Role:** Digital Marketing Intern  
 - **Organization:** Alfido Tech  
 - **Mode:** Remote  
-- **Duration:** Internship Period  
+- **Duration:** 45 Days 
 
 ---
 
